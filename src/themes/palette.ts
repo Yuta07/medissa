@@ -1,6 +1,7 @@
 export interface Palette {
 	PRIMARY: string // text color
 	SECONDARY: string // background color
+	TEXT_GRAY: string // text gray color
 	GRAY: string // ex) for selectbox
 	PLACE_HOLDER: string // placeholder for input
 	MAIN: string // app main color
@@ -12,6 +13,7 @@ export interface Palette {
 export const PALETTE: Palette = {
 	PRIMARY: '#2c3642',
 	SECONDARY: '#ffffff',
+	TEXT_GRAY: '#7f8c8d',
 	GRAY: '#ebeaeb',
 	PLACE_HOLDER: 'rgba(69, 69, 69, 0.5)',
 	MAIN: '#f1b24a',

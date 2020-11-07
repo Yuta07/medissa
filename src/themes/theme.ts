@@ -8,11 +8,12 @@ export interface Theme {
 	device: Device
 }
 
-export const theme = () => {
+export const theme = (): Theme => {
 	const theme: Theme = {
 		palette: PALETTE,
 		fontSize: FONT_SIZE,
 		device: DEVICE,
 	}
+
 	return theme
 }
