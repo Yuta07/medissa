@@ -46,10 +46,6 @@ export const GlobalStyle = createGlobalStyle`
   a {
 		color: ${PALETTE.PRIMARY};
 		text-decoration: none;
-
-    &:hover {
-      transition: 0.3s;
-    }
 	}
 
 	small {

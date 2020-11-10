@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="210px" height="180px" viewBox="0 0 210 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>logo</title>
+    <defs>
+        <linearGradient x1="0%" y1="13.2653061%" x2="100%" y2="86.7346939%" id="linearGradient-1">
+            <stop stop-color="#FFD287" offset="0%"></stop>
+            <stop stop-color="#F1B24A" stop-opacity="0.8" offset="46.1547852%"></stop>
+            <stop stop-color="#F1B24A" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="logo" fill="url(#linearGradient-1)">
+            <path d="M90,0 C139.705627,0 180,40.2943725 180,90 C180,113.05171 171.333583,134.07927 157.081198,150.002232 L202,150 C206.418278,150 210,153.581722 210,158 L210,172 C210,176.418278 206.418278,180 202,180 L98,180 C97.3719219,180 96.7607489,179.927621 96.1743668,179.790749 C94.1345544,179.929746 92.0754816,180 90,180 C40.2943725,180 0,139.705627 0,90 C0,40.2943725 40.2943725,0 90,0 Z M90,30 C56.862915,30 30,56.862915 30,90 C30,123.137085 56.862915,150 90,150 C123.137085,150 150,123.137085 150,90 C150,56.862915 123.137085,30 90,30 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>
